@@ -1,6 +1,10 @@
-guidelines
+Guidelines
 ==========
 
-All LOOP project guidelines
+Guidelines for developing websites in the LoopDK organization
 
-Currently we work by the Guidelines in use by ITK design, https://github.com/aakb/guidelines
+* [Code of Conduct](code-of-conduct.md)
+* [Code standards](code-standards.md)
+* [GIT guidelines](git-guidelines.md)
+* [CSS guidelines](css-guidelines.md)
+* [Javascript guidelines](js-guidelines.md)
