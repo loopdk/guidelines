@@ -1,3 +1,9 @@
+#PROJECT IS OUTDATED
+
+This project have been archived as it's outdated and there is no activity.
+
+-----
+
 Guidelines
 ==========
 
